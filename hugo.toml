@@ -47,6 +47,12 @@ description = "allshopping 쇼핑 블로그 - 자동 발행 블로그"
 keywords = ["쿠팡", "추천", "리뷰", "쇼핑"]
 images = ["/images/og-default.webp"]
 
+# Search engine verification (set only when needed)
+googleSiteVerification = ""
+naverSiteVerification = ""
+bingSiteVerification = ""
+yandexSiteVerification = ""
+
 [params.homeInfoParams]
 Title = "쿠팡 추천템 자동 아카이브"
 Content = "자동 생성된 상품 추천 글을 Hugo 기반 정적 페이지로 제공합니다."
