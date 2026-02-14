@@ -1,0 +1,79 @@
+baseURL = "https://allshopping.github.io/"
+languageCode = "ko-kr"
+title = "allshopping 쇼핑 블로그"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+summaryLength = 35
+
+[pagination]
+pagerSize = 12
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.renderer]
+			unsafe = true
+
+[minify]
+disableXML = false
+minifyOutput = true
+
+[sitemap]
+changefreq = "daily"
+priority = 0.7
+filename = "sitemap.xml"
+
+[permalinks]
+posts = "/posts/:slug/"
+
+[params]
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowShareButtons = true
+ShowReadingTime = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowToc = true
+TocOpen = false
+env = "production"
+description = "allshopping 쇼핑 블로그 - 자동 발행 블로그"
+keywords = ["쿠팡", "추천", "리뷰", "쇼핑"]
+images = ["/images/og-default.webp"]
+
+[params.homeInfoParams]
+Title = "쿠팡 추천템 자동 아카이브"
+Content = "자동 생성된 상품 추천 글을 Hugo 기반 정적 페이지로 제공합니다."
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1000
+threshold = 0.4
+minMatchCharLength = 2
+keys = ["title", "permalink", "summary", "content"]
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 20
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 30
