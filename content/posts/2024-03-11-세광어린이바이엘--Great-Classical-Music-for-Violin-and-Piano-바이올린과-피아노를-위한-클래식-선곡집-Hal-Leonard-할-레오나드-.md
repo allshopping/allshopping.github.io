@@ -1,11 +1,10 @@
 ---
-title: "세광어린이바이엘  [40~60대 남성추천]  Great Classical Music for Violin and Piano 바이올린과 피아노를 위한 클래식 선곡집 Hal 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+title: '세광어린이바이엘  [40~60대 남성추천]  Great Classical Music for Violin and Piano 바이올린과 피아노를 위한 클래식 선곡집 Hal 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-03-11
-slug: "세광어린이바이엘--Great-Classical-Music-for-Violin-and-Piano-바이올린과-피아노를-위한-클래식-선곡집-Hal-Leonard-할-레오나드-"
-author: Moon
+slug: '세광어린이바이엘--Great-Classical-Music-for-Violin-and-Piano-바이올린과-피아노를-위한-클래식-선곡집-Hal-Leonard-할-레오나드-'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 세광어린이바이엘]
----
 
 ## 세광어린이바이엘: 어린이 건강을 위한 필수품
 

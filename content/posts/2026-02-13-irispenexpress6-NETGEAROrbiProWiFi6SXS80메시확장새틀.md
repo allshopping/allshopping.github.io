@@ -1,11 +1,10 @@
 ---
 layout: single
-title: "irispenexpress6  NETGEAR Orbi Pro WiFi 6 SXS80 메시 확장 새틀라이트 AX6000, 1-Pack Router, AX18 장점 및 추천 제품 구매"
-author: Moon
+title: 'irispenexpress6  NETGEAR Orbi Pro WiFi 6 SXS80 메시 확장 새틀라이트 AX6000, 1-Pack Router, AX18 장점 및 추천 제품 구매'
+author: 'Moon'
 categories: [shopping]
 tags: ["Top5", "shopping", "NETGEAR", "Orbi Pro", "WiFi 6", "메시 Wi-Fi", "SXS80", "AX6000", "AX1800", "공유기", "새틀라이트", "네트워크"]
 pin: true
----
 
 💦파트너스 활동을 통해 일정액의 수수료를 제공받습니다.💦
 

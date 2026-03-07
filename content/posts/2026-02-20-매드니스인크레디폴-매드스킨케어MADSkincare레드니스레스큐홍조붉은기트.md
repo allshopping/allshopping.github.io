@@ -1,11 +1,10 @@
 ---
 layout: single
-title: "매드니스인크레디폴  매드스킨케어 [M.A.D Skincare] 레드니스 레스큐 홍조 붉은기 트러블 진정 120ml, 120.1ml, 1개 장점 및 추천 제품 구매 가이드 할인 최저"
-author: Moon
+title: '매드니스인크레디폴  매드스킨케어 [M.A.D Skincare] 레드니스 레스큐 홍조 붉은기 트러블 진정 120ml, 120.1ml, 1개 장점 및 추천 제품 구매 가이드 할인 최저'
+author: 'Moon'
 categories: [shopping]
 tags: ["Top5", "shopping", "매드스킨케어", "레드니스레스큐", "홍조진정", "민감성피부", "에스테틱화장품", "트러블케어"]
 pin: true
----
 
 💦파트너스 활동을 통해 일정액의 수수료를 제공받습니다.💦
 

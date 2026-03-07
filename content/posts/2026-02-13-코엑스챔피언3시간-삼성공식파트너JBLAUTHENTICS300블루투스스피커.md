@@ -1,11 +1,10 @@
 ---
 layout: single
-title: "코엑스챔피언3시간  삼성공식파트너 JBL AUTHENTICS 300 블루투스 스피커 어센틱 300 화이트 색상 (WIFI 멀티룸재생 스테레오2. 장점 및 추천 제품 구매 가이드 할"
-author: Moon
+title: '코엑스챔피언3시간  삼성공식파트너 JBL AUTHENTICS 300 블루투스 스피커 어센틱 300 화이트 색상 (WIFI 멀티룸재생 스테레오2. 장점 및 추천 제품 구매 가이드 할'
+author: 'Moon'
 categories: [shopping]
 tags: ["Top5", "shopping", "코엑스챔피언3시간"]
 pin: true
----
 
 💦파트너스 활동을 통해 일정액의 수수료를 제공받습니다.💦
 

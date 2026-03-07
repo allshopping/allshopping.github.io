@@ -1,11 +1,10 @@
 ---
-title: "김정국기타  [50~60대]  오선악보 + 기타 타브악보 오선노트 Guitar Tablature Manuscript Paper Hal Leonard 할  장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+title: '김정국기타  [50~60대]  오선악보 + 기타 타브악보 오선노트 Guitar Tablature Manuscript Paper Hal Leonard 할  장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-03-11
-slug: "김정국기타--오선악보--기타-타브악보-오선노트-Guitar-Tablature-Manuscript-Paper-Hal-Leonard-할-레오나드-Made-in-USA-"
-author: Moon
+slug: '김정국기타--오선악보--기타-타브악보-오선노트-Guitar-Tablature-Manuscript-Paper-Hal-Leonard-할-레오나드-Made-in-USA-'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 김정국기타]
----
 
 ## 김정국 기타: 최고의 음악 경험을 위한 필수 아이템
 

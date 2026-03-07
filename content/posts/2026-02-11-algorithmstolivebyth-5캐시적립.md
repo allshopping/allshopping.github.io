@@ -1,11 +1,10 @@
 ---
 layout: single
-title: "algorithmstoliveby-thecomputerscienceofhumandecisions  [10~30대 남성추천] 5% 캐시 적립 장점 및 추천 제품 구매 가이드 할인 최"
-author: Moon
+title: 'algorithmstoliveby-thecomputerscienceofhumandecisions  [10~30대 남성추천] 5% 캐시 적립 장점 및 추천 제품 구매 가이드 할인 최'
+author: 'Moon'
 categories: [shopping]
 tags: ["Top5", "shopping", "장점", "추천", "추천제품", "구매가이드", "할인", "최저가격", "상품평", "후기", "algorithmstoliveby-thecomputerscienceofhumandecisions"]
 pin: true
----
 
 💦파트너스 활동을 통해 일정액의 수수료를 제공받습니다.💦
 

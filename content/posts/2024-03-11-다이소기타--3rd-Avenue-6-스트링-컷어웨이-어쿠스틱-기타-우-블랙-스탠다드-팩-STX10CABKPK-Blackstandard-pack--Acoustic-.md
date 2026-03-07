@@ -1,11 +1,10 @@
 ---
-title: "다이소기타  [50~60대]  3rd Avenue 6 스트링 컷어웨이 어쿠스틱 기타 우 블랙 스탠다드 팩 STX10CABKPK, Black_standar 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+title: '다이소기타  [50~60대]  3rd Avenue 6 스트링 컷어웨이 어쿠스틱 기타 우 블랙 스탠다드 팩 STX10CABKPK, Black_standar 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-03-11
-slug: "다이소기타--3rd-Avenue-6-스트링-컷어웨이-어쿠스틱-기타-우-블랙-스탠다드-팩-STX10CABKPK-Blackstandard-pack--Acoustic-"
-author: Moon
+slug: '다이소기타--3rd-Avenue-6-스트링-컷어웨이-어쿠스틱-기타-우-블랙-스탠다드-팩-STX10CABKPK-Blackstandard-pack--Acoustic-'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 다이소기타]
----
 
 
 

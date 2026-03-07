@@ -1,11 +1,10 @@
 ---
 layout: single
-title: "morphee  [10~30대 남성추천] LEXON 『디지털 시계』 MORPHEE Design Jennifer Palbras 블랙 LR113 N 장점 및 추천 제품 구매 가이드 할"
-author: Moon
+title: 'morphee  [10~30대 남성추천] LEXON 『디지털 시계』 MORPHEE Design Jennifer Palbras 블랙 LR113 N 장점 및 추천 제품 구매 가이드 할'
+author: 'Moon'
 categories: [shopping]
 tags: ["Top5", "shopping", "장점", "추천", "추천제품", "구매가이드", "할인", "최저가격", "상품평", "후기", "morphee"]
 pin: true
----
 
 💦파트너스 활동을 통해 일정액의 수수료를 제공받습니다.💦
 

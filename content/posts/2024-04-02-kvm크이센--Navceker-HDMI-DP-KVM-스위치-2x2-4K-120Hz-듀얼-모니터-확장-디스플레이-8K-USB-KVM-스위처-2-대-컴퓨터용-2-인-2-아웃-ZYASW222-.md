@@ -1,11 +1,10 @@
 ---
-title: "kvm크이센  [40~50대 여성추천]  Navceker HDMI DP KVM 스위치 2x2 4K 120Hz 듀얼 모니터 확장 디스플레이 8K USB KVM 스위처 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+title: 'kvm크이센  [40~50대 여성추천]  Navceker HDMI DP KVM 스위치 2x2 4K 120Hz 듀얼 모니터 확장 디스플레이 8K USB KVM 스위처 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-04-02
-slug: "kvm크이센--Navceker-HDMI-DP-KVM-스위치-2x2-4K-120Hz-듀얼-모니터-확장-디스플레이-8K-USB-KVM-스위처-2-대-컴퓨터용-2-인-2-아웃-ZYASW222-"
-author: Moon
+slug: 'kvm크이센--Navceker-HDMI-DP-KVM-스위치-2x2-4K-120Hz-듀얼-모니터-확장-디스플레이-8K-USB-KVM-스위처-2-대-컴퓨터용-2-인-2-아웃-ZYASW222-'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, kvm크이센]
----
 
 ## 왜 KVM크이센이 최고의 가상 머신 솔루션인가
 
