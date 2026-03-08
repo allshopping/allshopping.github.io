@@ -2,8 +2,8 @@
 layout: single
 title: 'portertanker  [10~30대 남성추천] 요시다 포터 지갑 PORTER 탱커 POCKET WALLET M 622-27847 장점 및 추천 제품 구매 가이드 할인 최저 가격'
 author: 'Moon'
-categories: [shopping]
-tags: ["Top5", "shopping", "장점", "추천", "추천제품", "구매가이드", "할인", "최저가격", "상품평", "후기", "portertanker"]
+categories: ['shopping']
+tags: ['Top5', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'portertanker']
 pin: true
 ---
 

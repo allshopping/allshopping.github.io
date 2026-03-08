@@ -3,8 +3,8 @@ title: 'thinkpaduniversalthunderbolt4도크-eu/ap40b00135ae  [10~30대 여성추
 date: 2024-05-16
 slug: 'thinkpaduniversalthunderbolt4도크euap40b00135ae-삼성전자-갤럭시북4-프로-NT960XGQA51A-인텔-울트라5-색상선택-16인치-고해상도-AI-노트북-사무용'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, thinkpaduniversalthunderbolt4도크-eu/ap40b00135ae]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'thinkpaduniversalthunderbolt4도크-eu/ap40b00135ae']
 ---
 
 <p data-nosnippet>💦 💦 💦 파트너스 활동을 통해 일정액의 수수료를 제공받습니다.</p>

@@ -3,8 +3,8 @@ title: '레노버액정15arh05  [10~30대 여성추천] 레노버 씽크패드 T
 date: 2024-05-16
 slug: '레노버액정15arh05-레노버-씽크패드-ThinkPad-T14s-Gen-4-Ryzen-7-PRO-7840U-32GB-SSD-1TB-Win-11-미사용-정품-리퍼노트북'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 레노버액정15arh05]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', '레노버액정15arh05']
 ---
 
 <p data-nosnippet>💦 💦 💦 파트너스 활동을 통해 일정액의 수수료를 제공받습니다.</p>

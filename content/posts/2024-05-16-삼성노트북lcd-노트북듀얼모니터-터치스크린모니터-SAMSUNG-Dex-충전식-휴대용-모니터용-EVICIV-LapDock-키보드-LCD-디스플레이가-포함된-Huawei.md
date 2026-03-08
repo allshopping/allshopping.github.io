@@ -3,8 +3,8 @@ title: '삼성노트북lcd  [10~30대 여성추천] 노트북듀얼모니터 터
 date: 2024-05-16
 slug: '삼성노트북lcd-노트북듀얼모니터-터치스크린모니터-SAMSUNG-Dex-충전식-휴대용-모니터용-EVICIV-LapDock-키보드-LCD-디스플레이가-포함된-Huawei'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 삼성노트북lcd]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', '삼성노트북lcd']
 ---
 
 <p data-nosnippet>💦 💦 💦 파트너스 활동을 통해 일정액의 수수료를 제공받습니다.</p>

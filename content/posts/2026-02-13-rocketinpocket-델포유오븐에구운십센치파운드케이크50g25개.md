@@ -2,8 +2,8 @@
 layout: single
 title: 'rocketinpocket  델포유 오븐에 구운 십센치 파운드 케이크 50g, 25개 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 author: 'Moon'
-categories: [shopping]
-tags: ["Top5", "shopping", "파운드케이크", "델포유", "간식", "디저트", "대용량", "개별포장"]
+categories: ['shopping']
+tags: ['Top5', 'shopping', '파운드케이크', '델포유', '간식', '디저트', '대용량', '개별포장']
 pin: true
 ---
 

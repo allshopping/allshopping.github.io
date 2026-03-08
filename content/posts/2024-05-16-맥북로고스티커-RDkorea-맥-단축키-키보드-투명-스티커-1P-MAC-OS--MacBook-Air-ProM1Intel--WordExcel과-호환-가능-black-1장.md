@@ -3,8 +3,8 @@ title: '맥북로고스티커  [10~30대 여성추천] RDkorea 맥 단축키 키
 date: 2024-05-16
 slug: '맥북로고스티커-RDkorea-맥-단축키-키보드-투명-스티커-1P-MAC-OS--MacBook-Air-ProM1Intel--WordExcel과-호환-가능-black-1장'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 맥북로고스티커]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', '맥북로고스티커']
 ---
 
 <p data-nosnippet>💦 💦 💦 파트너스 활동을 통해 일정액의 수수료를 제공받습니다.</p>

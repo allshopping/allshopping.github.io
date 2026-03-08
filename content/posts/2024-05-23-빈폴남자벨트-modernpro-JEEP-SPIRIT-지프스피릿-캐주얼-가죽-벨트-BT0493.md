@@ -3,8 +3,8 @@ title: '빈폴남자벨트  [10~50대] modernpro JEEP SPIRIT 지프스피릿 캐
 date: 2024-05-23
 slug: '빈폴남자벨트-modernpro-JEEP-SPIRIT-지프스피릿-캐주얼-가죽-벨트-BT0493'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 빈폴남자벨트]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', '빈폴남자벨트']
 ---
 
 <p data-nosnippet>💦 💦 💦 파트너스 활동을 통해 일정액의 수수료를 제공받습니다.</p>

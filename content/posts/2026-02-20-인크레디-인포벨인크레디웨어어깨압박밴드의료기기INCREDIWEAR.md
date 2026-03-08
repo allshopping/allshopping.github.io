@@ -2,8 +2,8 @@
 layout: single
 title: '인크레디  [인포벨]인크레디웨어 어깨 압박밴드 의료기기 INCREDIWEAR SHOULDER BRACE, 1개 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻'
 author: 'Moon'
-categories: [shopping]
-tags: ["Top5", "shopping", "인크레디웨어", "어깨압박밴드", "어깨보호대", "인포벨", "의료기기", "오십견재활"]
+categories: ['shopping']
+tags: ['Top5', 'shopping', '인크레디웨어', '어깨압박밴드', '어깨보호대', '인포벨', '의료기기', '오십견재활']
 pin: true
 ---
 

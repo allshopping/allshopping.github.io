@@ -3,8 +3,8 @@ title: 'nx7302kvm-4k  [40~50대 여성추천]  Navceker 듀얼 모니터 DP KVM 
 date: 2024-04-02
 slug: 'nx7302kvm4k--Navceker-듀얼-모니터-DP-KVM-스위치-4K-120Hz-4x2-USB-30-HDMI-KVM-스위치-4-인-2-아웃-8K-60Hz-혼합-디스플레이-2-모니터-4-컴-ZYSK808-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, nx7302kvm-4k]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'nx7302kvm-4k']
 ---
 
 ### NX7302KVM-4K: 탁월한 멀티미디어 경험을 위한 KVM 스위치

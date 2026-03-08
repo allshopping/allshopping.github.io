@@ -3,8 +3,8 @@ title: '소곡집  [40~60대 남성추천]  Beethoven Piano Sonata no. 8 c minor
 date: 2024-03-11
 slug: '소곡집--Beethoven-Piano-Sonata-no-8-c-minor-op-13-Grande-Sonata-Pathetique-베토벤-피아노-소나타-8번-비창-Henle-헨레-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 소곡집]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', '소곡집']
 ---
 
 ## 고전의 아름다움을 담은 '소곡집'

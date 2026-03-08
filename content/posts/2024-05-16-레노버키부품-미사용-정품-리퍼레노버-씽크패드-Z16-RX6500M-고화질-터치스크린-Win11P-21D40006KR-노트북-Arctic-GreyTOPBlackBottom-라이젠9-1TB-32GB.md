@@ -3,8 +3,8 @@ title: '레노버키부품  [10~30대 여성추천] [미사용 정품 리퍼]레
 date: 2024-05-16
 slug: '레노버키부품-미사용-정품-리퍼레노버-씽크패드-Z16-RX6500M-고화질-터치스크린-Win11P-21D40006KR-노트북-Arctic-GreyTOPBlackBottom-라이젠9-1TB-32GB'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 레노버키부품]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', '레노버키부품']
 ---
 
 <p data-nosnippet>💦 💦 💦 파트너스 활동을 통해 일정액의 수수료를 제공받습니다.</p>

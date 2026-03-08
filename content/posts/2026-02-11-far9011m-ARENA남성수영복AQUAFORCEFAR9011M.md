@@ -2,8 +2,8 @@
 layout: single
 title: 'far-9011m  [10~30대 남성추천] ARENA 남성 수영복 AQUAFORCE FAR-9011M 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문'
 author: 'Moon'
-categories: [shopping]
-tags: ["Top5", "shopping", "장점", "추천", "추천제품", "구매가이드", "할인", "최저가격", "상품평", "후기", "far-9011m"]
+categories: ['shopping']
+tags: ['Top5', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'far-9011m']
 pin: true
 ---
 

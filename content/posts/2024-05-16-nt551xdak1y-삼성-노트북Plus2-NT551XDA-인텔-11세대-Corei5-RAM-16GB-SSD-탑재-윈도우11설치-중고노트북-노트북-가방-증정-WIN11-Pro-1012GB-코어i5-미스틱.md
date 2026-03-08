@@ -3,8 +3,8 @@ title: 'nt551xda-k1y  [10~30대 여성추천] 삼성 노트북Plus2 NT551XDA 인
 date: 2024-05-16
 slug: 'nt551xdak1y-삼성-노트북Plus2-NT551XDA-인텔-11세대-Corei5-RAM-16GB-SSD-탑재-윈도우11설치-중고노트북-노트북-가방-증정-WIN11-Pro-1012GB-코어i5-미스틱'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, nt551xda-k1y]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'nt551xda-k1y']
 ---
 
 <p data-nosnippet>💦 💦 💦 파트너스 활동을 통해 일정액의 수수료를 제공받습니다.</p>
