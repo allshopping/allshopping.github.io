@@ -1,8 +1,8 @@
-﻿---
-title: "nt751xgl-x06/c  [10~30대 여성추천] 삼성전자 갤럭시북4 울트라 NT960XGL-X72A 인텔 코어 Ultra 7 16인치 RTX4050 크리에이터 전문가 노트북 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+---
+title: 'nt751xgl-x06/c  [10~30대 여성추천] 삼성전자 갤럭시북4 울트라 NT960XGL-X72A 인텔 코어 Ultra 7 16인치 RTX4050 크리에이터 전문가 노트북 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-05-16
-slug: "nt751xglx06c-삼성전자-갤럭시북4-울트라-NT960XGLX72A-인텔-코어-Ultra-7-16인치-RTX4050-크리에이터-전문가-노트북-고사양-AI-노트북-X72A-WIN11-Home"
-author: Moon
+slug: 'nt751xglx06c-삼성전자-갤럭시북4-울트라-NT960XGLX72A-인텔-코어-Ultra-7-16인치-RTX4050-크리에이터-전문가-노트북-고사양-AI-노트북-X72A-WIN11-Home'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, nt751xgl-x06/c]
 ---

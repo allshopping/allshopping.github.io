@@ -1,8 +1,8 @@
-﻿---
-title: "삼성노트북lcd교체비용  [10~30대 여성추천] 삼성 갤럭시북 프로 15인치 인텔11세대 i7 SSD 1TB RAM 16GB 윈도우11홈 AMOLED NP950XDB-KC5 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+---
+title: '삼성노트북lcd교체비용  [10~30대 여성추천] 삼성 갤럭시북 프로 15인치 인텔11세대 i7 SSD 1TB RAM 16GB 윈도우11홈 AMOLED NP950XDB-KC5 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-05-16
-slug: "삼성노트북lcd교체비용-삼성-갤럭시북-프로-15인치-인텔11세대-i7-SSD-1TB-RAM-16GB-윈도우11홈-AMOLED-NP950XDBKC5US-WIN11-Home-블루"
-author: Moon
+slug: '삼성노트북lcd교체비용-삼성-갤럭시북-프로-15인치-인텔11세대-i7-SSD-1TB-RAM-16GB-윈도우11홈-AMOLED-NP950XDBKC5US-WIN11-Home-블루'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 삼성노트북lcd교체비용]
 ---

@@ -1,8 +1,8 @@
-﻿---
-title: "nt345xlaks16s  [10~30대 여성추천] 삼성 NT551EBE 15.6인치 인텔 8세대 Core-i5 SSD 탑재 윈도우11설치 중고노트북 가방 증정, 메탈릭 티탄, 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+---
+title: 'nt345xlaks16s  [10~30대 여성추천] 삼성 NT551EBE 15.6인치 인텔 8세대 Core-i5 SSD 탑재 윈도우11설치 중고노트북 가방 증정, 메탈릭 티탄, 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-05-16
-slug: "nt345xlaks16s-삼성-NT551EBE-156인치-인텔-8세대-Corei5-SSD-탑재-윈도우11설치-중고노트북-가방-증정-메탈릭-티탄-코어i5-1TB-16GB-WIN11-Pro"
-author: Moon
+slug: 'nt345xlaks16s-삼성-NT551EBE-156인치-인텔-8세대-Corei5-SSD-탑재-윈도우11설치-중고노트북-가방-증정-메탈릭-티탄-코어i5-1TB-16GB-WIN11-Pro'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, nt345xlaks16s]
 ---

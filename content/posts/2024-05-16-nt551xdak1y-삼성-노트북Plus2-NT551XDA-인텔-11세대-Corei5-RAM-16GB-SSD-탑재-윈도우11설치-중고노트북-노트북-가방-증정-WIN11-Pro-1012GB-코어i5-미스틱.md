@@ -1,8 +1,8 @@
-﻿---
-title: "nt551xda-k1y  [10~30대 여성추천] 삼성 노트북Plus2 NT551XDA 인텔 11세대 Core-i5 RAM 16GB SSD 탑재 윈도우11설치 중고노트북 노트 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+---
+title: 'nt551xda-k1y  [10~30대 여성추천] 삼성 노트북Plus2 NT551XDA 인텔 11세대 Core-i5 RAM 16GB SSD 탑재 윈도우11설치 중고노트북 노트 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-05-16
-slug: "nt551xdak1y-삼성-노트북Plus2-NT551XDA-인텔-11세대-Corei5-RAM-16GB-SSD-탑재-윈도우11설치-중고노트북-노트북-가방-증정-WIN11-Pro-1012GB-코어i5-미스틱"
-author: Moon
+slug: 'nt551xdak1y-삼성-노트북Plus2-NT551XDA-인텔-11세대-Corei5-RAM-16GB-SSD-탑재-윈도우11설치-중고노트북-노트북-가방-증정-WIN11-Pro-1012GB-코어i5-미스틱'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, nt551xda-k1y]
 ---
