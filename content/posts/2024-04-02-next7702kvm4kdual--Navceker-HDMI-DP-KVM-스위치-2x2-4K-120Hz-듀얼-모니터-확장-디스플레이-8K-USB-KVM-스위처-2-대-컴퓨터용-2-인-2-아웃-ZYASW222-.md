@@ -5,6 +5,7 @@ slug: 'next7702kvm4kdual--Navceker-HDMI-DP-KVM-스위치-2x2-4K-120Hz-듀얼-모
 author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, next-7702kvm-4kdual]
+---
 
 **4K 듀얼 디스플레이의 섬세한 세계를 경험하세요: 'next-7702kvm-4kdual'**
 

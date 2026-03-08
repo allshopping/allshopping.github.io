@@ -5,6 +5,7 @@ slug: 'nx7302kvm4k--Navceker-듀얼-모니터-DP-KVM-스위치-4K-120Hz-4x2-USB-
 author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, nx7302kvm-4k]
+---
 
 ### NX7302KVM-4K: 탁월한 멀티미디어 경험을 위한 KVM 스위치
 

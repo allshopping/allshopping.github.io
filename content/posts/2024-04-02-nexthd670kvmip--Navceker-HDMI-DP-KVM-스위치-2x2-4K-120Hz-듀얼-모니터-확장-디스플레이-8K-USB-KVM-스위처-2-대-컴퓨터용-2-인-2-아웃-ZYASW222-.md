@@ -5,6 +5,7 @@ slug: 'nexthd670kvmip--Navceker-HDMI-DP-KVM-스위치-2x2-4K-120Hz-듀얼-모니
 author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, next-hd670kvm-ip]
+---
 
 **4K HDR KVM-over-IP 솔루션: 다음 차원의 연결성**
 

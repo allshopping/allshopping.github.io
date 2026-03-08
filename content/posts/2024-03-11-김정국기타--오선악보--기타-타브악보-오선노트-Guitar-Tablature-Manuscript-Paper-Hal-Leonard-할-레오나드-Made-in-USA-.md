@@ -5,6 +5,7 @@ slug: '김정국기타--오선악보--기타-타브악보-오선노트-Guitar-Ta
 author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 김정국기타]
+---
 
 ## 김정국 기타: 최고의 음악 경험을 위한 필수 아이템
 
