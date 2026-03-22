@@ -1,0 +1,73 @@
+name: Monthly Git History Cleanup
+
+on:
+  schedule:
+    # 매월 1일 한국시간 오전 3시 (UTC 18시)
+    - cron: '0 18 1 * *'
+  workflow_dispatch: # 수동 실행 가능
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Check repository size before cleanup
+        run: |
+          echo "========================================="
+          echo "  Git 히스토리 정리 시작"
+          echo "========================================="
+          echo ""
+          echo "📊 정리 전 상태:"
+          git count-objects -vH
+          echo ""
+          echo "📝 현재 커밋 수: \$(git rev-list --count HEAD)"
+
+      - name: Reset git history
+        run: |
+          BRANCH_NAME=\$(git rev-parse --abbrev-ref HEAD)
+          echo "현재 브랜치: \$BRANCH_NAME"
+
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+
+          # 새로운 고아 브랜치 생성 (히스토리 없음)
+          git checkout --orphan temp_branch
+
+          # 모든 파일 스테이징
+          git add -A
+
+          # 새 커밋 생성
+          git commit -m "🧹 Monthly history cleanup - \$(date +'%Y-%m-%d')"
+
+          # 기존 브랜치 삭제 후 이름 변경
+          git branch -D \$BRANCH_NAME
+          git branch -m \$BRANCH_NAME
+
+          echo ""
+          echo "✅ 로컬 히스토리 리셋 완료"
+
+      - name: Force push to remote
+        run: |
+          git push -f origin \$(git rev-parse --abbrev-ref HEAD)
+          echo ""
+          echo "✅ 원격 저장소 업데이트 완료"
+
+      - name: Check repository size after cleanup
+        run: |
+          echo ""
+          echo "📊 정리 후 상태:"
+          git count-objects -vH
+          echo ""
+          echo "📝 현재 커밋 수: \$(git rev-list --count HEAD)"
+          echo ""
+          echo "========================================="
+          echo "  Git 히스토리 정리 완료!"
+          echo "========================================="
